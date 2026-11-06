@@ -1,0 +1,20 @@
+# Temporary and build files
+*.tmp
+*.log
+commit_msg.txt
+check_*.php
+test_*.php
+Booster.zip
+
+# Source backups and working copies
+icon_original.webp
+icon.webp120.webp
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.suo
+*.user

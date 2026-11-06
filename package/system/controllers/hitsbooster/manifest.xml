@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<addon>
+    <name>hitsbooster</name>
+    <title>HitsBooster</title>
+    <description>Автоматическое плавное увеличение просмотров опубликованных материалов</description>
+    <version>1.0.0</version>
+    <build>0</build>
+    <author>
+        <name>endroid</name>
+        <url>https://3va.ru</url>
+    </author>
+    <dependencies>
+        <core>2.18</core>
+        <php>8.3</php>
+    </dependencies>
+</addon>
